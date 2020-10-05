@@ -1,21 +1,32 @@
 <span id="a">visitor@armashfankar</span>:<span id="b">~</span><span id="c">$</span> <br/><br/>
-Hi, I'm Armash Fankar.<br> Back End Developer at ToFlo Fintech Consulting Pvt Ltd</p>
+Hi, I'm Armash Fankar.<br> Backend Developer at Ekport.com | Entrepreneurial Mindset | Startup Enthusiast
+Mumbai Suburban, Maharashtra, India
+</p>
 
 <p ><span style="font-weight:bold;font-size: 18px;">About Me :</span><br>
-Entrepreneurial Mindset. Startup Enthusiast.<br>Experienced Back End Developer with a demonstrated history of working in the travel, eCommerce and international trade industry. Skilled in LAMP and Laravel MVC Professional with a bachelor's degree focused in Computer Engineering from Mumbai University. </p>
+Back End Developer by Profession & Entrepreneur at heart.
+► Currently building World's First AI-based EximTech Crossborder eCommerce Platform.
+► Tech Team Lead & Aspiring Project Manager.
+► 4+ years of experience, working for different startups - Hospitality, eCommerce, Fashion and International Trade Industry.
+► Skilled in PHP, Python, JavaScript and Laravel MVC Professional with a bachelor's degree focused in Computer Engineering from Mumbai University. 
+</p>
 
 
 <p ><span style="font-weight:bold;font-size: 18px;">Experience :</span><br>
+<span><b>Ekport</b></span>
 <span>Back End Developer</span>
-<span><i>ToFlo Fintech Consulting Pvt Ltd</i></span>
-<span>June 2018 - Present (1 Year 2 Months)</span>
+<span>June 2018 - Present (2 Years 4 Months)</span>
 <Br>
+<span><b>Vistarooms</b></span>
+<span>Back End Developer (Contract)</span>
+<span>May 2017 - May 2018 (1 Year)</span>
+<Br>
+<span><b>Unico Connect LLP</b></span>
 <span>Full Stack Developer</span>
-<span><i>Unico Connect LLP</i></span>
 <span>June 2015 - May 2018 (3 Years)</span>
 <Br>
+<span><b>Fitrangi.com</b></span>
 <span>Technical Intern</span>
-<span><i>Fitrangi.com</i></span>
 <span>January 2015 - May 2015 (5 Months)</span>
 </p>
 

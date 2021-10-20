@@ -1,68 +1,44 @@
 <span id="a">visitor@armashfankar</span>:<span id="b">~</span><span id="c">$</span> <br/><br/>
-Hi, I'm Armash Fankar.<br> Backend Developer at Ekport.com | Entrepreneurial Mindset | Startup Enthusiast
+Hi, I'm Armash Fankar.<br> Senior Software Engineer at <a href="#">Unico Connect LLP</a>
 Mumbai Suburban, Maharashtra, India
 </p>
 
-<p ><span style="font-weight:bold;font-size: 18px;">About Me :</span><br>
-Back End Developer by Profession & Entrepreneur at heart.
-► Currently building World's First AI-based EximTech Crossborder eCommerce Platform.
-► Tech Team Lead & Aspiring Project Manager.
-► 4+ years of experience, working for different startups - Hospitality, eCommerce, Fashion and International Trade Industry.
-► Skilled in PHP, Python, JavaScript and Laravel MVC Professional with a bachelor's degree focused in Computer Engineering from Mumbai University. 
+<p style="text-align:justify;"><span style="font-weight:bold;font-size: 18px;">About Me :</span><br>
+► 6 years of experience, working for different industries / domain: 
+    * Hospitality
+    * eCommerce
+    * Fashion
+    * International Trade
+► Aspiring Project Manager.
+► Skilled in PHP, Python (beginner), JavaScript, Jquery, NodeJs, ExpressJs (basics) and Laravel MVC Professional with a bachelor's degree focused in Computer Engineering from Mumbai University. 
 </p>
 
 
 <p ><span style="font-weight:bold;font-size: 18px;">Experience :</span><br>
-<span><b>Ekport</b></span>
-<span>Back End Developer</span>
-<span>June 2018 - Present (2 Years 4 Months)</span>
+<a href="#"><b>Unico Connect LLP</b></a>
+<span>Senior Software Engineer</span>
+<span>Feb 2021 - Present</span>
 <Br>
-<span><b>Vistarooms</b></span>
+<span id="a">Ekport.com (Toflo Fintech Consulting Pvt. Ltd.)</span>
+<span>Back End Developer</span>
+<span>June 2018 - Jan 2021</span>
+<Br>
+<span id="a">Vistarooms</span>
 <span>Back End Developer (Contract)</span>
 <span>May 2017 - May 2018 (1 Year)</span>
 <Br>
-<span><b>Unico Connect LLP</b></span>
+<span id="a">Unico Connect LLP</span>
 <span>Full Stack Developer</span>
 <span>June 2015 - May 2018 (3 Years)</span>
 <Br>
-<span><b>Fitrangi.com</b></span>
+<span id="a">Fitrangi.com</span>
 <span>Technical Intern</span>
 <span>January 2015 - May 2015 (5 Months)</span>
 </p>
 
 
-<p ><span style="font-weight:bold;font-size: 18px;">Projects :</span><br>
-
-<span><a href="https://vistarooms.com/" target="_blank">Vistarooms.com</a></span>
-<span><i>Laravel</i></span>
-------
-<span><a href="https://play.google.com/store/apps/details?id=com.viintro.Viintro" target="_blank">Viintro - Android & iOS application</a></span>
-<span><i>Restful Api - Laravel</i></span>
-------
-<span><a href="https://bebajrang.com/" target="_blank">BeBajrang.com</a></span>
-<span><i>Shopify</i></span>
-------
-<span><a href="https://frapp.in/" target="_blank">Frapp.in</a></span>
-<span><i>Restful Api - Laravel</i></span>
-------
-<span><a href="https://www.timesfreshface.com/" target="_blank">OPPO Times Fresh Face 2017 - 18</a></span>
-<span><i>Laravel</i></span>
-------
-<span><a href="https://themommycollective.in/" target="_blank">The Mommy Collective</a></span>
-<span><i>Shopify</i></span>
-------
-<span><a href="https://www.calae.com/" target="_blank">Calae.com</a></span>
-<span><i>Shopify</i></span>
-------
-<span><a href="http://ice-global.net/" target="_blank">Ice Global</a></span>
-<span><i>Wordpress</i></span>
-------
-<span><a href="https://biguineindia.co.in" target="_blank">Biguineindia.co.in Salon & Spa</a></span>
-<span><i>Wordpress</i></span>
-</p>
-
 If you would like to get in touch with me, whether it be for tech support, a business venture, or to just say hi<!-- slightdelayhere-->, feel free to send me an email.<!-- longlongcomment --> My email address is: <a href="mailto:armashfankar@gmail.com">armashfankar@gmail.com</a>.
 
 You can also get in touch with me on <br> 
-<a href="https://in.linkedin.com/in/armashfankar" target="_Blank"><img src="icons/linkedin.png" style="width:50px;"></a> <a href="https://www.instagram.com/armashfankar/" target="_Blank"><img src="icons/instagram.png" style="width:50px;"></a> 
+<a href="https://in.linkedin.com/in/armashfankar" target="_Blank"><img src="icons/linkedin.png" alt="LinkedIn" style="width:50px;"></a> <a href="https://github.com/armashfankar" target="_Blank"><img src="icons/github.png" alt="Github" style="width:50px;"></a> <a tooltip="Download" href="https://res.cloudinary.com/armashfankar/image/upload/v1634716249/Armash/Armash_Fankar_-_Backend_Developer.pdf" target="_Blank"><img src="icons/download.png" alt="Download Resume" style="width:50px;"></a> 
 <br><Br><br><br><Br><br>

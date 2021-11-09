@@ -23,10 +23,6 @@ Mumbai Suburban, Maharashtra, India
 <span>Back End Developer</span>
 <span>June 2018 - Jan 2021</span>
 <Br>
-<span id="a">Vistarooms</span>
-<span>Back End Developer (Contract)</span>
-<span>May 2017 - May 2018 (1 Year)</span>
-<Br>
 <span id="a">Unico Connect LLP</span>
 <span>Full Stack Developer</span>
 <span>June 2015 - May 2018 (3 Years)</span>
